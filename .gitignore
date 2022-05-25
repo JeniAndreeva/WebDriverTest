@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+.vs/
+D:\Jeni_SoftUni\QA-Automated\Selenium-Basic-Advanced-and-POM\WebDriverTest\WebDriverTests\bin
