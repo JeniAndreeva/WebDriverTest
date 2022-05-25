@@ -363,4 +363,9 @@ MigrationBackup/
 FodyWeavers.xsd
 
 .vs/
-D:\Jeni_SoftUni\QA-Automated\Selenium-Basic-Advanced-and-POM\WebDriverTest\WebDriverTests\bin
+DataDrivenTestingCalculator\bin/
+DataDrivenTestingCalculator\obj/
+NunitWebDriverTests\bin/
+NunitWebDriverTests\obj/
+WebDriverTests\bin/
+WebDriverTests\obj/
